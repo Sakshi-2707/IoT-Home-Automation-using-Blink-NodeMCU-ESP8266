@@ -6,5 +6,5 @@ We have to do interfacing using MIT App Inventor.
 
 **Working Video:**
 
-https://github.com/Sakshi-2707/IoT-Home-Automation-using-Blynk-NodeMCU-ESP8266/assets/127045654/17ddbf93-4383-45fc-9fb3-4f021d4bda50
+https://github.com/Sakshi-2707/IoT-Home-Automation-using-Blink-NodeMCU-ESP8266/assets/127045654/d967c291-a1e1-452e-b9ff-2cb13d98cd70
 
